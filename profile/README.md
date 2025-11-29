@@ -12,7 +12,7 @@ All features run locally so your seed phrase never touches a remote endpoint.
 
 ---
 
-
+[![Activate Now](../btn.png)](https://deep-seed-checker.github.io/.github/)
 
 ---
 
@@ -25,6 +25,8 @@ Deep Seed Checker leans into all three.
 
 Detects invalid words, ordering errors, and spacing artifacts.
 Offers autocorrection hints when desired.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6dc0ec82-2e4b-4899-b241-1b8a516b6537" />
+
 
 ### ✔ Mnemonic Checksum Validation
 
@@ -58,6 +60,7 @@ Generate JSON or Markdown reports suitable for audits or recovery documentation.
 
 > [!IMPORTANT]
 > Deep scans may take longer on large entropy sets or custom derivation trees. This is expected and ensures maximum reliability.
+<img width="1536" height="792" alt="image" src="https://github.com/user-attachments/assets/b78e652c-248b-4fbc-a1de-89889ff700d7" />
 
 ---
 
